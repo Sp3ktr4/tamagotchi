@@ -1,0 +1,15 @@
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.csproj.AssemblyReference.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.AssemblyInfoInputs.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.AssemblyInfo.cs
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\bin\Debug\net6.0\tamagotchi.exe
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\bin\Debug\net6.0\tamagotchi.deps.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\bin\Debug\net6.0\tamagotchi.runtimeconfig.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\bin\Debug\net6.0\tamagotchi.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\bin\Debug\net6.0\tamagotchi.pdb
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\refint\tamagotchi.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.pdb
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\tamagotchi.genruntimeconfig.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\tamagotchi\tamagotchi\obj\Debug\net6.0\ref\tamagotchi.dll

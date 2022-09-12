@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {}
+    "C:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {
+    "C:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
+        "projectUniqueName": "C:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
         "projectName": "tamagotchi",
-        "projectPath": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
+        "projectPath": "C:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
         "packagesPath": "C:\\Users\\bergman.william\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\obj\\",
+        "outputPath": "C:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\tamagotchi\\tamagotchi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bergman.william\\AppData\\Roaming\\NuGet\\NuGet.Config"
